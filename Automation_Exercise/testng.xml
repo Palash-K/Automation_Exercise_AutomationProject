@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="20" name="Test">
+    <classes>
+      <class name="automationExercises.TC06AutomationExercises"/>
+      <class name="automationExercises.TC17AutomationExercises"/>
+      <class name="automationExercises.TC26AutomayionExercises"/>
+      <class name="automationExercises.TC16AutomationExercises"/>
+      <class name="automationExercises.TC09AutomationExercises"/>
+      <class name="automationExercises.TC04AutomationExercises"/>
+      <class name="automationExercises.TC02AutomationExercises"/>
+      <class name="automationExercises.TC03AutomationExercises"/>
+      <class name="automationExercises.TC05AutomationExercises"/>
+      <class name="automationExercises.TC08AutomationExercises"/>
+      <class name="automationExercises.TC07AutomationExercises"/>
+      <class name="automationExercises.TC13AutomationExercises"/>
+      <class name="automationExercises.TC12AutomationExercises"/>
+      <class name="automationExercises.TC14AutomationExercises"/>
+      <class name="automationExercises.TC15AutomationExercises"/>
+      <class name="automationExercises.TC11AutomationExercises"/>
+      <class name="automationExercises.TC10AutomationExercises"/>
+      <class name="automationExercises.TC25AutomationExercises"/>
+      <class name="automationExercises.TC24AutomationExercises"/>
+      <class name="automationExercises.TC23AutomationExercises"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
